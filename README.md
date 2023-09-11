@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliMasoodOffical
+- 👋 Hi, I’m Ali Masood
 - 👀 I’m interested in Python Automation
 - 🌱 I’m currently learning C++ oop
 - 💞️ I’m looking to work as a freelancer
